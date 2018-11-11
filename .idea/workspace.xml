@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59f43f6c-e96a-4e76-88d7-f380ade2de45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="59f43f6c-e96a-4e76-88d7-f380ade2de45" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +44,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="LPDTeamiOS-Guard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LPDTeamiOS-Guard" type="462c0819:PsiDirectoryNode" />
+              <item name="appium-guard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appium-guard" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
